@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payment-app/static/css/main.469e26a7.css",
+    "main.js": "/payment-app/static/js/main.7a41567d.js",
+    "index.html": "/payment-app/index.html",
+    "main.469e26a7.css.map": "/payment-app/static/css/main.469e26a7.css.map",
+    "main.7a41567d.js.map": "/payment-app/static/js/main.7a41567d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469e26a7.css",
+    "static/js/main.7a41567d.js"
+  ]
+}
